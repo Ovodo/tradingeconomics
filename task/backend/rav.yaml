@@ -1,0 +1,5 @@
+scripts:
+  server:
+    - python manage.py runserver 8000
+  migrate:
+    - python manage.py migrate
